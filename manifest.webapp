@@ -1,0 +1,14 @@
+{
+    "name": "Toutch Firefox",
+    "description" : "Um game para firefox",
+    "launch_path": "/index.html",
+    "icons": {
+        "128": "/img/icon.gif"
+    },
+    "developer": {
+        "name": "Fagner Valente",
+        "email": "fagnervalente@gmail.com"
+    },
+    "default_locate": "pt-br"
+
+}
